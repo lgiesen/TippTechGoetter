@@ -209,7 +209,7 @@ for ssn, tms in tms_dict.items():
 # In[14]:
 
 
-tbl_dict['2018-19'] # or any other season
+tbl_dict['2017-18'] # or any other season
 
 
 # In[15]:
