@@ -1,0 +1,12 @@
+19th Matchday Prediction Results:
+Home                -- Away                WebscrapingPrediction  Correct
+Borussia Dortmund	  -- 1.FC Köln	         Home                   ✔
+Mönchengladbach	    -- Mainz	             Home                   ✔
+VfL Wolfsburg	      -- Hertha BSC	         Home                   ❌
+Eintracht Frankfurt	-- RB Leipzig	         Away                   ❌
+SC Freiburg	        -- Paderborn	         Home                   ❌
+Union Berlin	      -- FC Augsburg	       Home                   ✔
+Bayern München	    -- Schalke 04	         Home                   ✔
+Werder Bremen	      -- Hoffenheim	         Away                   ✔
+Bayer Leverkusen	  -- Fortuna Düsseldorf	 Home                   ✔
+Result                                                             6/9 correct = 0.67
