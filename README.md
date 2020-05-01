@@ -1,4 +1,4 @@
-# TippTechGoetter
+# Project TippTechGoetter
 
 Goal: Making accurate prediction, what the outcome of a Bundesliga game will be. So either it is a draw, the home or the away team wins. 
 
